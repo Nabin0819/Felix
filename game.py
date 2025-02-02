@@ -4,6 +4,7 @@ import random
 # Initialize pygame
 pygame.init()
 
+#i wanted to add this comment
 # Constants
 WIDTH, HEIGHT = 800, 300
 GROUND_HEIGHT = 230
